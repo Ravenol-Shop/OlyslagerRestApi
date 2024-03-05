@@ -1,0 +1,17 @@
+{
+    "name": "ravenol/olyslager-rest-api",
+    "description": "RestAPI Wrapper for Olyslager API",
+    "autoload": {
+        "psr-4": {
+            "Ravenol\\OlyslagerRestApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Steven Wenzel"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}

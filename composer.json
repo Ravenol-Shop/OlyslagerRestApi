@@ -1,6 +1,7 @@
 {
     "name": "ravenol/olyslager-rest-api",
     "description": "RestAPI Wrapper for Olyslager API",
+    "version": "v1.0.0",
     "autoload": {
         "psr-4": {
             "Ravenol\\OlyslagerRestApi\\": "src/"
